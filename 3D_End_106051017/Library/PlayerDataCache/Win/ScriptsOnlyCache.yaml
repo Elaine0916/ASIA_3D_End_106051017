@@ -60,13 +60,13 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11558}
+      Script: {instanceID: 11442}
     - Class: 114
-      Script: {instanceID: 11998}
+      Script: {instanceID: 11882}
     - Class: 114
-      Script: {instanceID: 12128}
+      Script: {instanceID: 12012}
     - Class: 114
-      Script: {instanceID: 12542}
+      Script: {instanceID: 12426}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -591,4 +591,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - "Assets/3D\u5834\u666F.unity"
-  playerPath: C:/E/ASIA_3D_End_106051017/3D_End_106051017/3D_End_106051017.exe
+  playerPath: C:/E/ASIA_3D_End_106051017/EXE/3D_End_106051017.exe
